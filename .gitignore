@@ -1,0 +1,5 @@
+app/components/Future/api_key.ts
+
+node_modules/
+
+venv

@@ -1,0 +1,498 @@
+Class,Incident,Crime,Date,Time,Location Name,Address,Accuracy,Agency,Lat,Lng,Hour
+Robbery - Individual,230770567,Robbery - Individual,9/22/2023,7:00:00 AM,Parking Lot,"13xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,7
+Motor Vehicle Theft,230739337,Motor Vehicle Theft - Generalist,9/22/2023,6:00:00 AM,Single Family Home,"27xx Azelda St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.022079,-82.9872459,6
+Assault - Simple,230739282,Domestic Violence,9/22/2023,3:00:00 AM,70 - Other Vehicle,"20xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,3
+Drugs / Narcotics Violation,230739122,Drug Offense,9/22/2023,2:07:00 AM,Street,"Aberdeen Ave & Medina Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0211471,-82.9740594,2
+Assault - Simple,230739108,Domestic Violence,9/22/2023,2:03:00 AM,Single Family Home,"11xx Walters St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9877916,-82.9830266,2
+All Other - Criminal,230739033,Menacing - Ziu,9/22/2023,1:01:00 AM,Single Family Home,"20xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,1
+Shoplifting,23000767,Theft - Shoplifting,9/22/2023,12:19:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,12
+Assault - Simple,233010811,Domestic Violence,9/22/2023,12:14:00 AM,Multiple Dwelling,"10xx Atcheson St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9744757,-82.9702965,12
+Weapons Violation,233010808,Weapons Offense,9/21/2023,9:29:00 PM,Street,"Joyce St & E Hudson Avenue, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0140472,-82.9757029,21
+Robbery - Individual,230742782,Robbery - Individual,9/21/2023,9:24:00 PM,Park/playground,"23xx Delbert Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0050621,-82.9611239,21
+Assault - Aggravated,230738441,Felony Assault,9/21/2023,8:08:00 PM,Multiple Dwelling,"5xx E 8th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9916024,-82.9969178,20
+Theft,01-23-006093,Larceny/theft,9/21/2023,7:54:00 PM,Parking Lot,"18xx Olentangy River Rd, Columbus, Oh 43212",Address,Franklin County Sheriff's Office,39.9887726,-83.0257486,19
+Weapons Violation,230738119,Weapons Offense,9/21/2023,6:46:00 PM,Street,"Abner Ave & Hamilton Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0249713,-82.978092,18
+Motor Vehicle Theft,230739017,Motor Vehicle Theft - Generalist,9/21/2023,6:15:00 PM,Parking Garage,"8xx N Pearl St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9780036,-83.0028973,18
+All Other - Non-Criminal,01-23-006137,Unspecified,9/21/2023,5:40:00 PM,,"14xx Olentangy River Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,40.0201128,-83.02456,17
+All Other - Non-Criminal,202301440,Non-criminal Incident,9/21/2023,5:37:00 PM,,"15xx Guilford Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.001268,-83.0582891,17
+Burglary from Motor Vehicle,230743150,Theft - From Motor Vehicle - Petit - Ziu,9/21/2023,5:00:00 PM,Single Family Home,"5xx Piedmont Rd, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0351133,-83.0081913,17
+Theft,01-23-006092,Larceny/theft,9/21/2023,4:36:00 PM,,"7xx Kinnear Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,39.9978981,-83.0363771,16
+Weapons Violation,230737780,Weapons Offense,9/21/2023,4:28:00 PM,Single Family Home,"12xx N 5th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9884899,-82.9982535,16
+Motor Vehicle Theft,230737757,Motor Vehicle Theft - Generalist,9/21/2023,4:10:00 PM,Parking Lot,"11xx W 5th Ave, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),39.9887493,-83.0436821,16
+Weapons Violation,230737647,Weapons Offense,9/21/2023,3:46:00 PM,70 - Other Vehicle,"E, Xx Th Ave And Hamilton Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0141835,-82.9789869,15
+Motor Vehicle Theft,230539466,Motor Vehicle Theft - Generalist,9/21/2023,3:40:00 PM,Street,"Ifo, 14xx Cordell Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0110852,-82.9658723,15
+Assault - Simple,230737590,Domestic Violence,9/21/2023,3:29:00 PM,Multiple Dwelling,"13xx Summit St, Apt A Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9951251,-83.0014788,15
+All Other - Non-Criminal,230737686,Missing Person,9/21/2023,2:30:00 PM,School,"14xx Huy Rd, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.035446,-82.9708847,14
+Motor Vehicle Theft,230737416,Motor Vehicle Theft - Generalist,9/21/2023,2:18:00 PM,Daycare Facility,"8xx Michigan Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9852223,-83.0167485,14
+Weapons Violation,230737377,Weapons Offense,9/21/2023,2:05:00 PM,Street,"26xx Osceola Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0192786,-82.9895828,14
+All Other - Criminal,230737399,Menacing - Ziu,9/21/2023,2:00:00 PM,Single Family Home,"12xx Hildreth Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9740328,-82.9677302,14
+Motor Vehicle Theft,230737261,Motor Vehicle Theft - Generalist,9/21/2023,1:13:00 PM,Street,"8xx Ingleside Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9784471,-83.0180944,13
+Shoplifting,23000764,Theft - Shoplifting,9/21/2023,12:19:00 PM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,24
+All Other - Criminal,230736872,Truancy,9/21/2023,10:27:00 AM,School,"E 25th St & Ontario Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0074823,-82.9771801,10
+Assault - Simple,230736531,Domestic Violence,9/21/2023,7:00:00 AM,Single Family Home,"9xx E 12th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9960164,-82.9789139,7
+Burglary from Motor Vehicle,230736477,Theft - From Motor Vehicle - Petit - Ziu,9/21/2023,6:24:00 AM,Other Business Office,"14xx E 3rd Ave, Columbus, Oh 43212",Intersection,Columbus Division Of Police (Oh),39.9834638,-82.9893701,6
+Drugs / Narcotics Violation,230736339,Drug Offense,9/21/2023,3:31:00 AM,Street,"E Weber Ave & Cleveland Rd, Columbus, Oh 43224",Intersection,Columbus Division Of Police (Oh),40.0367016,-82.9612944,3
+Burglary from Motor Vehicle,230736110,Theft - From Motor Vehicle - Petit - Ziu,9/21/2023,12:10:00 AM,Street,"W Gay & N High, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.963576,-83.0009059,12
+Motor Vehicle Theft,230736570,Motor Vehicle Theft - Generalist,9/20/2023,11:59:00 PM,Street,"23xx Neil Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0169144,-83.0141648,23
+Motor Vehicle Theft,230736742,Motor Vehicle Theft - Generalist,9/20/2023,11:30:00 PM,Street,"15xx W 7th Ave, Columbus, Oh 43210",Address,Columbus Division Of Police (Oh),39.9900479,-83.0315645,23
+Weapons Violation,233010783,Weapons Offense,9/20/2023,11:05:00 PM,Parking Lot,"6xx E 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9864137,-82.988532,23
+Theft,202301436,505.05 Petty Theft - All Other Larceny,9/20/2023,11:00:00 PM,Multiple Dwelling,"14xx W Lane Ave, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0071931,-83.0535706,23
+All Other - Non-Criminal,202301433,Non-criminal Incident,9/20/2023,10:50:00 PM,,"29xx Brandon Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0133286,-83.0566006,22
+Burglary - Residential,23000763,Burglary,9/20/2023,10:30:00 PM,,"8xx Goodale Blvd, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9754695,-83.0395673,22
+Weapons Violation,230735837,Weapons Offense,9/20/2023,9:38:00 PM,Yard,"29xx Azelda St, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0258221,-82.9870566,21
+Motor Vehicle Theft,230736816,Motor Vehicle Theft - Generalist,9/20/2023,9:30:00 PM,Residential Facility,"9xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,21
+All Other - Non-Criminal,230735783,Missing Person,9/20/2023,8:30:00 PM,Single Family Home,"27xx Atwood Ter, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0208157,-82.9851683,20
+All Other - Criminal,230745428,Menacing - Ziu,9/20/2023,7:30:00 PM,Hospital,"35xx Olentangy River Rd, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0525631,-83.0337448,19
+Sexual Offense,230735306,Public Indecency,9/20/2023,6:15:00 PM,Street,"N High Ave & E 4th St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9859169,-83.0052797,18
+All Other - Criminal,233010887,Menacing - Ziu,9/20/2023,6:00:00 PM,Multiple Dwelling,"17xx Elmwood Ave, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),39.9878275,-83.0515502,18
+All Other - Criminal,230735224,Menacing - Ziu,9/20/2023,5:20:00 PM,Street,"Xx E Broad, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9686869,-82.9438049,17
+All Other - Criminal,230735204,Menacing - Ziu,9/20/2023,5:14:00 PM,Park/playground,"10xx E 13th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9972463,-82.9842607,17
+Traffic Incident,230735017,Traffic Arrest,9/20/2023,4:01:00 PM,Street,"Olentangy St & Goodale St, Columbus, Oh 43223",Intersection,Columbus Division Of Police (Oh),40.0203793,-83.0058423,16
+Burglary - Residential,230740179,Burglary - Residential,9/20/2023,4:00:00 PM,Other Residential,"6xx Northridge Rd, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0423493,-83.0065611,16
+Motor Vehicle Theft,230734843,Motor Vehicle Theft - Generalist,9/20/2023,2:30:00 PM,Street,"1xx W 3rd Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9838674,-83.0151611,14
+All Other - Non-Criminal,230737314,Missing Person,9/20/2023,12:30:00 PM,Multiple Dwelling,"14xx Hamlet St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9857009,-83.0005796,24
+Theft,230737468,Theft - Misdemeanor - Ziu,9/20/2023,12:00:00 PM,69 - Cyberspace,"Xx E 4th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9854659,-82.9886388,24
+All Other - Criminal,230735076,Menacing - Ziu,9/20/2023,12:00:00 PM,School,"39xx Indianola Ave, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0539808,-83.0002846,24
+All Other - Criminal,230734248,Menacing - Ziu,9/20/2023,10:16:00 AM,Single Family Home,"11xx Peters Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9878015,-82.9807236,10
+Theft,230735922,Theft - Misdemeanor - Ziu,9/20/2023,9:00:00 AM,School,"30xx Eisenhower Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0365348,-82.9932024,9
+Motor Vehicle Theft,230734658,Motor Vehicle Theft - Generalist,9/20/2023,9:00:00 AM,Yard,"25xx Indianola Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0193714,-83.0019218,9
+Shoplifting,23000762,Theft - Shoplifting,9/20/2023,3:21:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,3
+Burglary from Motor Vehicle,230733645,Theft - From Motor Vehicle - Petit - Ziu,9/20/2023,12:50:00 AM,Parking Garage,"Xx S Front St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.949301,-82.9999373,12
+All Other - Non-Criminal,230733457,Missing Person,9/20/2023,12:10:00 AM,Single Family Home,"15xx W 6th Ave, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),39.9899603,-83.0389102,12
+Traffic Incident,230733530,Traffic Arrest,9/20/2023,12:06:00 AM,Street,"Parkwood St & E Hudson Ave, Columbus, Oh 43224",Intersection,Columbus Division Of Police (Oh),40.0135458,-82.9647839,12
+Fraud / Forgery,202301446,"Identity Fraud_obtain, Possess, Or Use To Hold Out As Other Person",9/20/2023,12:01:00 AM,Single Family Home,"29xx North Star Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.008189,-83.0479121,12
+Traffic Incident,230733402,Traffic Arrest,9/19/2023,10:45:00 PM,Street,"W 5th Ave & Broadview Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9888644,-83.0459292,22
+Assault - Simple,230733306,Domestic Violence,9/19/2023,9:57:00 PM,Multiple Dwelling,"4xx Helen Ct, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9843923,-83.0182148,21
+Assault - Simple,230733086,Domestic Violence,9/19/2023,8:13:00 PM,Multiple Dwelling,"10xx Atcheson St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9744757,-82.9702965,20
+Motor Vehicle Theft,230732358,Motor Vehicle Theft - Generalist,9/19/2023,3:30:00 PM,Street,"24xx Findley Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0176985,-83.0092113,15
+Vandalism,23000760,Criminal Damaging/endangering,9/19/2023,2:19:00 PM,,"11xx W 1st Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9817822,-83.0427718,14
+All Other - Criminal,230732094,Menacing - Ziu,9/19/2023,2:03:00 PM,Street,"E 16th Ave & Hamilton Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9997373,-82.9799952,14
+Assault - Simple,230731932,Domestic Violence,9/19/2023,12:45:00 PM,Street,"15xx Isabel Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9972761,-82.9771637,24
+All Other - Criminal,202301430,Issuance Of Warrant Upon Failure To Appear,9/19/2023,12:38:00 PM,Other Outside Location,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,24
+Traffic Incident,230731630,Accident Report - Hit/skip - Solved,9/19/2023,10:44:00 AM,Street,"11xx Cleveland Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9933034,-82.982129,10
+Vandalism,230731111,Damage To Property,9/19/2023,5:40:00 AM,Street,"24xx Lexington Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),39.999801,-82.981664,5
+All Other - Non-Criminal,01-23-006025,Complaint,9/19/2023,12:00:00 AM,Single Family Home,"20xx Republic Avenue, Columbus, Oh 43211",Address,Franklin County Sheriff's Office,40.015664,-82.9700598,12
+Burglary - Residential,230737688,Burglary - Residential,9/19/2023,12:00:00 AM,Single Family Home,"9xx E 12th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9960164,-82.9789139,12
+Motor Vehicle Theft,230730972,Motor Vehicle Theft - Generalist,9/18/2023,10:00:00 PM,Parking Lot,"3xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,22
+Motor Vehicle Theft,230733947,Motor Vehicle Theft - Generalist,9/18/2023,8:30:00 PM,Single Family Home,"2xx E Oakland Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0088267,-83.0032451,20
+Assault - Simple,230731861,Domestic Violence,9/18/2023,8:00:00 PM,Shelter-mission / Homeless,"12xx Corrugated Way, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),39.9890172,-82.9904579,20
+Burglary - Residential,230730643,Burglary - Residential,9/18/2023,7:30:00 PM,Single Family Home,"12xx Republic Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.015664,-82.9700598,19
+Drugs / Narcotics Violation,202301428,511.04c2 Possess Marijuana,9/18/2023,6:38:00 PM,Street,"17xx North Star Rd, Upper Arlington, Oh 43212",Address,Upper Arlington Police Department,39.9987847,-83.0482811,18
+Theft,233011064,Theft - Misdemeanor - Ziu,9/18/2023,6:15:00 PM,Multiple Dwelling,"5xx Stinchcomb Dr, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0229737,-83.0305728,18
+Vandalism,230730002,Damage To Property,9/18/2023,5:00:00 PM,Multiple Dwelling,"9xx E Weber Rd, Apt B Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,17
+Theft,230734926,Theft - Misdemeanor - Ziu,9/18/2023,4:14:00 PM,Other Business Office,"Xx E Gay St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9655146,-82.987411,16
+All Other - Criminal,230729962,Menacing - Ziu,9/18/2023,2:55:00 PM,Multiple Dwelling,"18xx N 4th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,14
+All Other - Non-Criminal,230728901,Missing Person,9/18/2023,10:00:00 AM,Single Family Home,"14xx Duxberry Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0089663,-82.972742,10
+Motor Vehicle Theft,230731521,Motor Vehicle Theft - Generalist,9/18/2023,8:00:00 AM,Other Outside Location,"38xx Indianola Ave, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0539808,-83.0002846,8
+Sexual Offense,230730675,Public Indecency,9/18/2023,6:05:00 AM,Street,"Mcguffey Ave & Alberdeen Rd, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0046112,-82.9824121,6
+Burglary - Residential,230728459,Burglary - Residential,9/18/2023,2:15:00 AM,Single Family Home,"24xx N 4th St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0129247,-82.9978039,2
+Shoplifting,23000758,Theft - Shoplifting,9/18/2023,1:08:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,1
+Robbery - Individual,230728399,Robbery - Individual,9/18/2023,1:00:00 AM,Gas Station,"15xx Cordell Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0110852,-82.9658723,1
+Traffic Incident,01-23-005992,Hit Skip,9/18/2023,12:43:00 AM,,"Nb On 71 From, 1xx Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,12
+Motor Vehicle Theft,230728813,Motor Vehicle Theft - Generalist,9/18/2023,12:00:00 AM,Street,"16xx Oakland Park Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0317922,-82.9741469,12
+All Other - Criminal,230727926,Menacing - Ziu,9/17/2023,9:03:00 PM,Multiple Dwelling,"3xx E 20th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0037327,-82.9890405,21
+Assault - Aggravated,230727853,Felony Assault,9/17/2023,8:32:00 PM,Street,"21xx Ontario St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0161253,-82.9766586,20
+All Other - Criminal,202301427,Issuance Of Warrant Upon Failure To Appear,9/17/2023,7:20:00 PM,Street,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,19
+Motor Vehicle Theft,230727710,Motor Vehicle Theft - Generalist,9/17/2023,6:20:00 PM,Parking Lot,"12xx E Hudson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,18
+Weapons Violation,202301426,Carrying Concealed Weapons_handgun Other Than A Dangerous Ordnance,9/17/2023,4:27:00 PM,Street,"Kenny Rd & Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0323607,-83.051228,16
+Assault - Simple,230727090,Domestic Violence,9/17/2023,3:33:00 PM,Multiple Dwelling,"9xx E Weber Rd, Apt B Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,15
+All Other - Criminal,202301425,Issuance Of Warrant Upon Failure To Appear,9/17/2023,3:24:00 PM,Street,"10xx Grandview Ave Grandview Heights, Oh, 43212",Address,Upper Arlington Police Department,39.9823761,-83.0449755,15
+All Other - Criminal,230726906,Menacing - Ziu,9/17/2023,2:19:00 PM,Multiple Dwelling,"2xx W 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9874985,-83.0152617,14
+All Other - Non-Criminal,230747077,Missing Person,9/17/2023,12:00:00 PM,Single Family Home,"9xx E 18th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0017017,-82.9839378,24
+Robbery - Individual,230726528,Robbery - Individual,9/17/2023,11:14:00 AM,Street,"12xx E 16th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.999626,-82.9767858,11
+All Other - Criminal,230726653,Menacing - Ziu,9/17/2023,11:00:00 AM,Yard,"10xx E 22nd Ave, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),40.0048739,-82.9752487,11
+Assault - Simple,230726520,Domestic Violence,9/17/2023,11:00:00 AM,Single Family Home,"14xx E 25th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0069435,-82.9672263,11
+Assault - Simple,230726487,Domestic Violence,9/17/2023,10:51:00 AM,Single Family Home,"29xx Brement St, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0315863,-82.9696202,10
+Motor Vehicle Theft,230726172,Motor Vehicle Theft - Generalist,9/17/2023,8:42:00 AM,Single Family Home,"Xx W 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9874985,-83.0152617,8
+Motor Vehicle Theft,230726289,Motor Vehicle Theft - Generalist,9/17/2023,8:00:00 AM,Parking Lot,"18xx Lakeview, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0256154,-82.9651438,8
+Motor Vehicle Theft,230727099,Motor Vehicle Theft - Generalist,9/17/2023,6:00:00 AM,Single Family Home,"14xx Loretta Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0147246,-82.9701322,6
+Assault - Simple,230726002,Domestic Violence,9/17/2023,3:30:00 AM,Single Family Home,"14xx E 19th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0027713,-82.9840001,3
+Weapons Violation,230725906,Discharging Firearms,9/17/2023,2:47:00 AM,Multiple Dwelling,"3xx Chittendedn Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9948248,-82.9953053,2
+Traffic Incident,230725808,Traffic Arrest,9/17/2023,1:52:00 AM,Street,"E Nationwide St & N 4th Blvd, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.9691527,-82.997476,1
+Shoplifting,23000757,Theft - Shoplifting,9/17/2023,1:00:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,1
+Robbery - Individual,230726095,Robbery - Individual,9/17/2023,1:00:00 AM,Multiple Dwelling,"19xx Indianola Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9998311,-83.0037366,1
+Assault - Simple,230725843,Domestic Violence,9/17/2023,1:00:00 AM,Single Family Home,"14xx Briarwood Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0165695,-82.9699998,1
+All Other - Non-Criminal,230726028,Missing Person,9/17/2023,1:00:00 AM,Multiple Dwelling,"10xx Caldwell Pl, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9768139,-82.9770772,1
+Robbery - Individual,230725628,Robbery - Individual,9/17/2023,12:22:00 AM,Street,"11xx Peters Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9878015,-82.9807236,12
+Burglary - Residential,230725693,Burglary - Residential,9/16/2023,11:40:00 PM,Multiple Dwelling,"16xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,23
+Weapons Violation,230725483,Weapons Offense,9/16/2023,11:36:00 PM,Street,"E 7th St & N High Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9940977,-83.0068864,23
+Assault - Simple,230725452,Domestic Violence,9/16/2023,11:23:00 PM,Single Family Home,"32xx Eisenhower Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0365348,-82.9932024,23
+Motor Vehicle Theft,230726376,Motor Vehicle Theft - Generalist,9/16/2023,9:00:00 PM,Parking Lot,"13xx Holly Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),39.9846869,-83.0339917,21
+All Other - Non-Criminal,01-23-005968,Unspecified,9/16/2023,7:12:00 PM,,"18xx Olentangy River Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,40.0201128,-83.02456,19
+Motor Vehicle Theft,230727600,Motor Vehicle Theft - Generalist,9/16/2023,6:50:00 PM,Street,"12xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,18
+Motor Vehicle Theft,230724549,Motor Vehicle Theft - Generalist,9/16/2023,5:53:00 PM,Street,"1xx W 3rd Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9838674,-83.0151611,17
+Assault - Simple,230721498,Domestic Violence,9/16/2023,4:48:00 PM,Single Family Home,"20xx Grasmere Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0185699,-82.9829591,16
+All Other - Criminal,202301421,Warrant,9/16/2023,4:18:00 PM,Street,"Trentwood Rd & Halesworth Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0231696,-83.0535061,16
+Motor Vehicle Theft,230724829,Motor Vehicle Theft - Generalist,9/16/2023,1:00:00 PM,Street,"1xx E Norwich Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0069987,-83.0027873,13
+Assault - Simple,230723703,Domestic Violence,9/16/2023,12:23:00 PM,Parking Lot,"26xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,24
+Motor Vehicle Theft,230727384,Motor Vehicle Theft - Generalist,9/16/2023,5:00:00 AM,Parking Lot,"4xx E 14th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9983164,-82.9955108,5
+Traffic Incident,230722973,Traffic Arrest,9/16/2023,2:56:00 AM,Street,"W 11th St & N High Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9940977,-83.0068864,2
+Traffic Incident,230719814,Traffic Arrest,9/16/2023,1:19:00 AM,Street,"E 11th St & Kingry Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9938199,-82.9840669,1
+Assault - Simple,230722786,Domestic Violence,9/16/2023,1:09:00 AM,Single Family Home,"15xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,1
+Weapons Violation,230722770,Weapons Offense,9/16/2023,12:59:00 AM,Street,"E 5th & St Ave, Clair Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9860762,-82.9797369,12
+Vandalism,230723960,Damage To Property,9/16/2023,12:00:00 AM,Yard,"17xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,12
+Motor Vehicle Theft,230732583,Motor Vehicle Theft - Generalist,9/16/2023,12:00:00 AM,Street,"Xx E 13th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9972924,-82.9954839,12
+Burglary from Motor Vehicle,230723344,Theft - From Motor Vehicle - Petit - Ziu,9/15/2023,11:00:00 PM,Parking Lot,"16xx Clara Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9963869,-82.986605,23
+Burglary from Motor Vehicle,230723698,Theft - From Motor Vehicle - Petit - Ziu,9/15/2023,11:00:00 PM,Parking Lot,"17xx Clara St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9963869,-82.986605,23
+Burglary - Residential,230723199,Burglary - Residential,9/15/2023,10:00:00 PM,Multiple Dwelling,"21xx Dresden St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0200286,-82.9719304,22
+Motor Vehicle Theft,230723896,Motor Vehicle Theft - Generalist,9/15/2023,10:00:00 PM,Street,"12xx Sandlin Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0266217,-82.9792308,22
+All Other - Criminal,230722229,Menacing - Ziu,9/15/2023,9:13:00 PM,Single Family Home,"15xx Republic Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.015664,-82.9700598,21
+Weapons Violation,230722191,Weapons Offense,9/15/2023,9:05:00 PM,Street,"9xx E 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9864137,-82.988532,21
+Theft,235006552,Theft - Mail,9/15/2023,7:15:00 PM,Multiple Dwelling,"3xx E Northwood Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0076373,-83.0027519,19
+Assault - Simple,230721843,Domestic Violence,9/15/2023,6:45:00 PM,,"23xx East Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0169357,-83.0104878,18
+Weapons Violation,230721522,Discharging Firearms,9/15/2023,5:00:00 PM,Street,"27xx Mcguffy Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0205288,-82.9815173,17
+All Other - Non-Criminal,230721295,Missing Person,9/15/2023,3:44:00 PM,Single Family Home,"14xx Hamlet St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9857009,-83.0005796,15
+Theft,230721232,Theft - Misdemeanor - Ziu,9/15/2023,3:10:00 PM,Clothing Store,"9xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,15
+Drugs / Narcotics Violation,202301415,Possession Of Controlled Substances_schedule I Or Ii Substance,9/15/2023,1:56:00 PM,School,"16xx Zollinger Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0192796,-83.0697181,13
+Assault - Simple,230720962,Domestic Violence,9/15/2023,1:30:00 PM,Multiple Dwelling,"14xx N 5th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9884899,-82.9982535,13
+Theft,230786398,Theft - Misdemeanor - Ziu,9/15/2023,9:00:00 AM,Residential Facility,"4xx Stinchcomb Dr, Columbus, Oh 43235",Address,Columbus Division Of Police (Oh),40.0229737,-83.0305728,9
+Drugs / Narcotics Violation,230719983,Drug Offense,9/15/2023,3:48:00 AM,Street,"22xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,3
+Theft,23000750,Theft - From Building,9/15/2023,3:05:00 AM,,"10xx Dublin Rd, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9734315,-83.0471496,3
+Weapons Violation,230719867,Weapons Offense,9/15/2023,2:00:00 AM,Street,"3xx N Monroe Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9702707,-82.9782795,2
+Motor Vehicle Theft,230720941,Motor Vehicle Theft - Generalist,9/15/2023,1:15:00 AM,Parking Lot,"2xx E 15th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9994385,-82.9955846,1
+All Other - Non-Criminal,230741930,Missing Person,9/15/2023,12:00:00 AM,Multiple Dwelling,"14xx N 4th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,12
+Assault - Simple,230719458,Domestic Violence,9/14/2023,10:30:00 PM,Multiple Dwelling,"11xx E 26th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0080923,-82.9720703,22
+Theft,230719555,Theft - Misdemeanor - Ziu,9/14/2023,10:30:00 PM,Other Location,"13xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,22
+All Other - Non-Criminal,230723939,Missing Person,9/14/2023,10:00:00 PM,Multiple Dwelling,"9xx Mt Vernon Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9711202,-82.9791878,22
+Motor Vehicle Theft,230721923,Motor Vehicle Theft - Generalist,9/14/2023,9:30:00 PM,Street,"W 2nd St & N High Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9940977,-83.0068864,21
+Theft,230773240,Theft - Mail,9/14/2023,7:20:00 PM,Single Family Home,"1xx Irving Way W, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0357933,-83.0231394,19
+Robbery - Individual,230718661,Robbery - Individual,9/14/2023,4:50:00 PM,Library,"14xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,16
+Motor Vehicle Theft,230718537,Motor Vehicle Theft - Generalist,9/14/2023,4:12:00 PM,Street,"E Hudson & Billiter, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0135625,-82.9650673,16
+All Other - Non-Criminal,230718701,Missing Person,9/14/2023,4:00:00 PM,Single Family Home,"17xx Cordell Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0110852,-82.9658723,16
+All Other - Non-Criminal,230734293,Missing Person,9/14/2023,3:54:00 PM,Residential Facility,"25xx Grasmere Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0185699,-82.9829591,15
+Assault - Simple,230718469,Domestic Violence,9/14/2023,3:40:00 PM,Multiple Dwelling,"4xx Helen Ct, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9843923,-83.0182148,15
+Drugs / Narcotics Violation,202301409,511.04c2 Possess Marijuana,9/14/2023,3:33:00 PM,Street,"Essex Rd & North Star Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0023529,-83.04826,15
+Motor Vehicle Theft,230721166,Motor Vehicle Theft - Generalist,9/14/2023,3:00:00 PM,Single Family Home,"11xx Michigan Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9852223,-83.0167485,15
+Assault - Simple,230718296,Domestic Violence,9/14/2023,2:35:00 PM,Single Family Home,"5xx N Champion Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9739445,-82.9682365,14
+Motor Vehicle Theft,230727213,Motor Vehicle Theft - Generalist,9/14/2023,7:00:00 AM,Parking Lot,"23xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,7
+All Other - Non-Criminal,230719642,Missing Person,9/14/2023,6:30:00 AM,Single Family Home,"11xx E 17th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0003473,-82.9754196,6
+All Other - Criminal,230717296,Menacing - Ziu,9/14/2023,4:30:00 AM,Street,"13xx E 26th Ave, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),40.0080923,-82.9720703,4
+Vandalism,230717235,Damage To Property,9/14/2023,1:45:00 AM,Single Family Home,"28xx Audubon Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0210757,-82.9906592,1
+Traffic Incident,230717136,Traffic Arrest,9/14/2023,1:00:00 AM,Single Family Home,"28xx Audobon Rd, Columbus Ohio Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0210757,-82.9906592,1
+Theft,230716508,Theft - Misdemeanor - Ziu,9/13/2023,7:32:00 PM,Variety/convenience Store,"6xx E Weber Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,19
+Traffic Incident,230716313,Traffic Arrest,9/13/2023,6:16:00 PM,Street,"Chittenden St & Summit Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9954868,-83.0014548,18
+All Other - Criminal,230716046,Menacing - Ziu,9/13/2023,4:43:00 PM,Residential Facility,"29xx Azelda St, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0258221,-82.9870566,16
+Theft,230716033,Theft - Misdemeanor - Ziu,9/13/2023,4:30:00 PM,Grocery/supermarket,"6xx E Hudson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,16
+Drugs / Narcotics Violation,230716004,Drug Offense,9/13/2023,4:26:00 PM,Yard,"25xx Audubon Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0210757,-82.9906592,16
+All Other - Criminal,230715747,Menacing - Ziu,9/13/2023,2:49:00 PM,Single Family Home,"10xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,14
+Burglary from Motor Vehicle,230715405,Theft - From Motor Vehicle - Petit - Ziu,9/13/2023,11:56:00 AM,Other Business Office,"21xx Joyce Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0055776,-82.963735,11
+Weapons Violation,230715327,Weapons Offense,9/13/2023,11:21:00 AM,70 - Other Vehicle,"N Gift St & W Gay St, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.9610988,-83.0158718,11
+Burglary - Residential,230716128,Burglary - Residential,9/13/2023,11:10:00 AM,Multiple Dwelling,"11xx Kinnear Rd, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),39.9978981,-83.0363771,11
+Robbery - Individual,230716828,Robbery - Individual,9/13/2023,9:50:00 AM,Single Family Home,"8xx Gibbard Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9839143,-82.9799141,9
+All Other - Criminal,230715448,Menacing - Ziu,9/13/2023,9:30:00 AM,School,"26xx Mcguffey Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0205288,-82.9815173,9
+All Other - Non-Criminal,230759232,Missing Person,9/13/2023,9:00:00 AM,Single Family Home,"11xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,9
+Traffic Incident,01-23-005879,Vehicle Crash,9/13/2023,7:26:00 AM,Street,"Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,7
+Traffic Incident,01-23-005913,Vehicle Crash,9/13/2023,6:40:00 AM,Street,"Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,6
+Traffic Incident,01-23-005886,Vehicle Crash,9/13/2023,6:40:00 AM,Street,"Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,6
+Traffic Incident,01-23-005909,Vehicle Crash,9/13/2023,6:40:00 AM,Street,"Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,6
+All Other - Criminal,230714814,Menacing - Ziu,9/13/2023,6:38:00 AM,Daycare Facility,"19xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,6
+Assault - Simple,230714691,Domestic Violence,9/13/2023,4:23:00 AM,Single Family Home,"13xx E 18th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0017017,-82.9839378,4
+Traffic Incident,230714625,Traffic Arrest,9/13/2023,3:09:00 AM,Street,"Medary St & E Tompkins Ave, Columbus, Oh 43202",Intersection,Columbus Division Of Police (Oh),40.0143071,-83.0050119,3
+Motor Vehicle Theft,230714975,Motor Vehicle Theft - Generalist,9/13/2023,2:03:00 AM,Parking Lot,"4xx W 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9874985,-83.0152617,2
+All Other - Criminal,202301403,Issuance Of Warrant Upon Failure To Appear,9/13/2023,1:54:00 AM,Other Location,"13xx N High St, Columbus, Oh 43201",Address,Upper Arlington Police Department,39.9940977,-83.0068864,1
+All Other - Criminal,230714386,Menacing - Ziu,9/12/2023,11:44:00 PM,Single Family Home,"9xx E 18th Ave, Columbus, Oh 43221",Address,Columbus Division Of Police (Oh),40.0017017,-82.9839378,23
+Burglary - Residential,230714287,Burglary - Residential,9/12/2023,10:35:00 PM,Single Family Home,"1xx W Maynard Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0110147,-83.012387,22
+Motor Vehicle Theft,230714464,Motor Vehicle Theft - Generalist,9/12/2023,9:00:00 PM,Parking Lot,"21xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,21
+Motor Vehicle Theft,230714936,Motor Vehicle Theft - Generalist,9/12/2023,8:14:00 PM,Street,"N High Ave & 2nd St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9940977,-83.0068864,20
+All Other - Non-Criminal,01-23-005867,Unspecified,9/12/2023,4:20:00 PM,,"17xx Olentangy River Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,40.0201128,-83.02456,16
+Theft,230712976,Theft - Misdemeanor - Ziu,9/12/2023,1:00:00 PM,Single Family Home,"15xx Kingry St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9943429,-82.9844916,13
+Theft,230713714,Theft - Misdemeanor - Ziu,9/12/2023,9:30:00 AM,Yard,"14xx Loretta Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0147246,-82.9701322,9
+All Other - Criminal,230716623,Menacing - Ziu,9/12/2023,9:00:00 AM,Multiple Dwelling,"4xx Chittenden Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9948248,-82.9953053,9
+Assault - Simple,230712164,Domestic Violence,9/12/2023,6:45:00 AM,Single Family Home,"8xx E 2nd Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.981915,-82.9921429,6
+All Other - Non-Criminal,230713875,Missing Person,9/12/2023,4:00:00 AM,Single Family Home,"20xx Grasmere Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0185699,-82.9829591,4
+Traffic Incident,230712067,Traffic Arrest,9/12/2023,3:55:00 AM,Street,"I, Xx N E 17th Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0003473,-82.9754196,3
+Drugs / Narcotics Violation,230712047,Drug Offense,9/12/2023,3:25:00 AM,Parking Lot,"27xx Cleveland Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0414902,-82.9607468,3
+All Other - Non-Criminal,233010545,Curfew,9/12/2023,1:36:00 AM,Street,"16xx E Weber Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,1
+Motor Vehicle Theft,230711936,Motor Vehicle Theft - Generalist,9/12/2023,1:28:00 AM,Street,"4xx E 15th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9994385,-82.9955846,1
+Burglary - Residential,230712636,Burglary - Residential,9/12/2023,12:20:00 AM,Single Family Home,"24xx Lexington Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.008079,-82.9806532,12
+Burglary - Residential,230712384,Burglary - Residential,9/11/2023,11:30:00 PM,Multiple Dwelling,"3xx E 20th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0037327,-82.9890405,23
+All Other - Criminal,230712414,Menacing - Ziu,9/11/2023,10:30:00 PM,Street,"5xx St Clair Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9757087,-82.9805201,22
+Assault - Simple,230711681,Domestic Violence,9/11/2023,10:21:00 PM,Single Family Home,"13xx E 26th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0080923,-82.9720703,22
+Burglary from Motor Vehicle,233010582,Theft - From Motor Vehicle - Petit - Ziu,9/11/2023,10:00:00 PM,Parking Lot,"Xx W Northwood Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0081621,-83.0124552,22
+Assault - Simple,230711588,Domestic Violence,9/11/2023,9:34:00 PM,Single Family Home,"12xx E 16th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.999626,-82.9767858,21
+Weapons Violation,230711337,Weapons Offense,9/11/2023,9:00:00 PM,70 - Other Vehicle,"Akola St & Hiawatha Ave, Columbus, Oh 43228",Intersection,Columbus Division Of Police (Oh),40.0173939,-82.9865011,21
+All Other - Criminal,230711755,Menacing - Ziu,9/11/2023,9:00:00 PM,School,"6xx Jack Gibbs Blvd, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9725031,-82.9863224,21
+Motor Vehicle Theft,230713061,Motor Vehicle Theft - Generalist,9/11/2023,8:45:00 PM,Multiple Dwelling,"5xx Stinchcomb Dr, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0229737,-83.0305728,20
+Motor Vehicle Theft,230711935,Motor Vehicle Theft - Generalist,9/11/2023,8:30:00 PM,Parking Lot,"1xx E 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9864137,-82.988532,20
+All Other - Criminal,230711580,Menacing - Ziu,9/11/2023,7:27:00 PM,School,"1xx Arcadia Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0174856,-83.0047058,19
+Motor Vehicle Theft,230711571,Motor Vehicle Theft - Generalist,9/11/2023,5:30:00 PM,Parking Lot,"39xx N High St, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.052594,-83.0200496,17
+Motor Vehicle Theft,230716367,Motor Vehicle Theft - Generalist,9/11/2023,4:39:00 PM,Single Family Home,"5xx E Weber Rd, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0245397,-83.0043657,16
+Robbery - Individual,230710857,Robbery - Individual,9/11/2023,4:34:00 PM,Parking Lot,"8xx E 17th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0003473,-82.9754196,16
+All Other - Non-Criminal,202301402,Non-criminal Incident,9/11/2023,2:50:00 PM,,"22xx North Star Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.008189,-83.0479121,14
+All Other - Criminal,230710239,Menacing - Ziu,9/11/2023,10:30:00 AM,Multiple Dwelling,"Xx S 4th St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9367312,-82.9928294,10
+All Other - Criminal,230710066,Menacing - Ziu,9/11/2023,10:10:00 AM,Residential Facility,"Xx S 4th St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9367312,-82.9928294,10
+All Other - Criminal,230709967,Menacing - Ziu,9/11/2023,9:27:00 AM,Other Business Office,"13xx Essex Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9925301,-82.9875749,9
+Motor Vehicle Theft,230710294,Motor Vehicle Theft - Generalist,9/11/2023,9:00:00 AM,Parking Lot,"11xx Hunter Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.983587,-83.0097638,9
+All Other - Criminal,230709959,Telecommunication Harassment - Ziu,9/11/2023,8:45:00 AM,Multiple Dwelling,"13xx N 4th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,8
+All Other - Criminal,230711401,Menacing - Ziu,9/11/2023,8:10:00 AM,Street,"W 9th Ave & Hunter Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9930807,-83.0097255,8
+All Other - Non-Criminal,230740058,Missing Person,9/11/2023,8:00:00 AM,Multiple Dwelling,"11xx E 18th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0017017,-82.9839378,8
+All Other - Criminal,230709769,Menacing - Ziu,9/11/2023,7:57:00 AM,School,"1xx Arcadia Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0174856,-83.0047058,7
+Motor Vehicle Theft,230692968,Motor Vehicle Theft - Generalist,9/11/2023,7:50:00 AM,Other Commercial Service Location,"9xx Joyce Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0085568,-82.9628185,7
+Burglary from Motor Vehicle,230709748,Theft - From Motor Vehicle - Petit - Ziu,9/11/2023,7:45:00 AM,Parking Lot,"4xx W Broad St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9581475,-83.0341786,7
+All Other - Non-Criminal,230711672,Missing Person,9/11/2023,7:30:00 AM,Single Family Home,"14xx Jefferson Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0040603,-82.9829805,7
+Motor Vehicle Theft,230710001,Motor Vehicle Theft - Generalist,9/11/2023,1:00:00 AM,Parking Lot,"22xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,1
+Weapons Violation,230709400,Weapons Offense,9/11/2023,12:54:00 AM,Street,"Ontario Ave & Loretta St, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0150284,-82.9767236,12
+Traffic Incident,230709364,Traffic Arrest,9/11/2023,12:22:00 AM,Street,"W 3rd St & Perry Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9840027,-83.0190534,12
+Theft,23000744,Theft - All Other Larceny,9/10/2023,11:01:00 PM,,"12xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,23
+Drugs / Narcotics Violation,23000743,Possession Of Drugs,9/10/2023,10:42:00 PM,,Grandview Ave/w 2nd Ave Grandview Heights Oh,Address,Grandview Heights Police Department,39.9835201,-83.044885,22
+Motor Vehicle Theft,230709248,Motor Vehicle Theft - Generalist,9/10/2023,10:15:00 PM,Street,"20xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,22
+Robbery - Individual,230709139,Robbery - Individual,9/10/2023,10:03:00 PM,Parking Lot,"12xx Essex Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9925301,-82.9875749,22
+All Other - Criminal,230709174,Menacing - Ziu,9/10/2023,10:00:00 PM,Variety/convenience Store,"3xx N 20th St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9689971,-82.9735305,22
+Motor Vehicle Theft,230709989,Motor Vehicle Theft - Generalist,9/10/2023,8:30:00 PM,Parking Lot,"17xx Summit St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9951251,-83.0014788,20
+Motor Vehicle Theft,230711017,Motor Vehicle Theft - Generalist,9/10/2023,7:48:00 PM,Street,"1xx E 14th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9983164,-82.9955108,19
+All Other - Criminal,202301385,Issuance Of Warrant Upon Failure To Appear,9/10/2023,7:14:00 PM,Street,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,19
+Motor Vehicle Theft,230708985,Motor Vehicle Theft - Generalist,9/10/2023,7:00:00 PM,Parking Lot,"10xx Dennison Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9832204,-83.0085277,19
+Assault - Simple,230708658,Domestic Violence,9/10/2023,7:00:00 PM,Multiple Dwelling,"9xx Mt Vernon Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9723555,-82.9721455,19
+Motor Vehicle Theft,230709629,Motor Vehicle Theft - Generalist,9/10/2023,6:30:00 PM,Parking Lot,"30xx Sunset Dr, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0236975,-83.0187308,18
+All Other - Criminal,23000741,Criminal Mischief,9/10/2023,5:15:00 PM,,"9xx Woodhill Dr, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9779184,-83.0380605,17
+Theft,230708397,Theft - Misdemeanor - Ziu,9/10/2023,5:12:00 PM,Single Family Home,"13xx E 19th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0027713,-82.9840001,17
+All Other - Non-Criminal,230718194,Missing Person,9/10/2023,4:54:00 PM,Shelter-mission / Homeless,"14xx Hamlet St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9857009,-83.0005796,16
+Assault - Aggravated,230708379,Felony Assault,9/10/2023,3:53:00 PM,Street,"15xx Loretta Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),40.0147246,-82.9701322,15
+Traffic Incident,230708176,Traffic Arrest,9/10/2023,3:53:00 PM,Street,"15xx Loretta Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),40.0147246,-82.9701322,15
+Weapons Violation,202301383,Carrying Concealed Weapons_handgun Other Than A Dangerous Ordnance,9/10/2023,3:34:00 PM,Street,"13xx W Lane Ave, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0071931,-83.0535706,15
+All Other - Criminal,230708087,Menacing - Ziu,9/10/2023,3:06:00 PM,Other Business Office,"35xx N High St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9772408,-83.0035485,15
+Assault - Simple,230708060,Domestic Violence,9/10/2023,2:57:00 PM,Street,"Hamilton Ave & Melrose Ave, Columbus, Oh 43224",Intersection,Columbus Division Of Police (Oh),40.024284,-82.977721,14
+Motor Vehicle Theft,230707358,Motor Vehicle Theft - Generalist,9/10/2023,7:00:00 AM,Parking Lot,"22xx Homestead Dr, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.011322,-82.9758984,7
+Assault - Simple,01-23-005818,Assault,9/10/2023,4:10:00 AM,,"24xx Parkwood Av, Mifflin Twp, Oh 43219",Address,Franklin County Sheriff's Office,40.0194142,-82.956016,4
+Assault - Simple,230713171,Domestic Violence,9/10/2023,2:25:00 AM,Single Family Home,"28xx Bremen St, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0315863,-82.9696202,2
+Sexual Offense,230707766,Prowling,9/10/2023,2:00:00 AM,Multiple Dwelling,"1xx Chittenden Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9948248,-82.9953053,2
+Assault - Simple,230706827,Domestic Violence,9/10/2023,1:15:00 AM,Single Family Home,"29xx Cleveland Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0414902,-82.9607468,1
+Assault - Simple,230706796,Domestic Violence,9/10/2023,12:58:00 AM,Street,"High Ave & Bolinger Street, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.9773447,-83.0029614,12
+Assault - Simple,230706766,Domestic Violence,9/10/2023,12:42:00 AM,Single Family Home,"10xx Olmestead Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9884233,-82.9770475,12
+Alcohol Violation,230706770,Liquor Law Offense,9/10/2023,12:30:00 AM,Parking Lot,"11xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,12
+Burglary from Motor Vehicle,230706899,Theft - From Motor Vehicle - Petit - Ziu,9/10/2023,12:00:00 AM,Parking Lot,"Xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,12
+All Other - Criminal,230706446,Menacing - Ziu,9/9/2023,10:30:00 PM,Single Family Home,"14xx Kohr Pl, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0129318,-82.9684385,22
+Traffic Incident,230706393,Traffic Arrest,9/9/2023,10:18:00 PM,Street,"E 5th St & Hamlet Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9869238,-83.0008286,22
+Assault - Simple,230706371,Domestic Violence,9/9/2023,10:08:00 PM,Single Family Home,"16xx Weldon Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0275954,-82.978892,22
+Assault - Aggravated,230706545,Felony Assault,9/9/2023,9:15:00 PM,Multiple Dwelling,"5xx Bolivar St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9753951,-82.9748152,21
+Assault - Simple,230706149,Domestic Violence,9/9/2023,8:56:00 PM,Single Family Home,"X Buttles Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9774987,-83.011199,20
+Burglary - Commercial,230706334,Burglary - Commercial,9/9/2023,8:15:00 PM,Multiple Dwelling,"1xx W Patterson Ave, Apt E Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0102352,-83.0126464,20
+Vandalism,230707869,Damage To Property,9/9/2023,8:00:00 PM,Multiple Dwelling,"2xx E Oakland Ave, Apt A Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0088267,-83.0032451,20
+Burglary - Commercial,230707223,Burglary - Commercial,9/9/2023,7:00:00 PM,Restaurant,"20xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,19
+Sexual Offense,230707576,Public Indecency,9/9/2023,6:15:00 PM,Clothing Store,"7xx N High St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9772408,-83.0035485,18
+Assault - Simple,230705177,Domestic Violence,9/9/2023,4:44:00 PM,Single Family Home,"11xx Piedmnont, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0339072,-82.9780488,16
+Homicide / Manslaughter,230705296,Homicide,9/9/2023,3:56:00 PM,Single Family Home,"20xx Iuka Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0047061,-83.0022502,15
+Assault - Simple,230705117,Domestic Violence,9/9/2023,2:35:00 PM,Multiple Dwelling,"24xx N 4th St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0129247,-82.9978039,14
+All Other - Criminal,230705065,Menacing - Ziu,9/9/2023,1:54:00 PM,Single Family Home,"11xx E 21st Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0041477,-82.9770252,13
+Theft,233011330,Theft - Misdemeanor - Ziu,9/9/2023,1:00:00 PM,Multiple Dwelling,"Xx E 11th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9942296,-82.9945548,13
+All Other - Criminal,230706574,Menacing - Ziu,9/9/2023,11:00:00 AM,Multiple Dwelling,"13xx Highland St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9859486,-83.010943,11
+Burglary from Motor Vehicle,230704938,Theft - From Motor Vehicle - Petit - Ziu,9/9/2023,7:00:00 AM,Street,"20xx N 4th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,7
+All Other - Non-Criminal,230704560,Missing Person,9/9/2023,6:00:00 AM,Multiple Dwelling,"4xx N Garfield Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9699224,-82.9799512,6
+Assault - Simple,230703990,Domestic Violence,9/9/2023,2:42:00 AM,Multiple Dwelling,"2xx E 5th Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),39.984986,-82.928032,2
+Driving Under the Influence (DUI),202301376,353.01a Ovi Impaired,9/9/2023,2:29:00 AM,Street,"16xx W Lane Ave, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0071931,-83.0535706,2
+Assault - Simple,23000738,Assault,9/9/2023,12:13:00 AM,,"18xx W 5th Ave, Columbus, Oh",Address,Grandview Heights Police Department,39.9885244,-83.0390016,12
+Assault - Simple,230703622,Domestic Violence,9/8/2023,11:30:00 PM,Single Family Home,"17xx Manchester Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0221687,-82.9739738,23
+Motor Vehicle Theft,230703946,Motor Vehicle Theft - Generalist,9/8/2023,10:30:00 PM,Parking Lot,"W 4th St & N High Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9940977,-83.0068864,22
+All Other - Non-Criminal,230703948,Missing Person,9/8/2023,10:00:00 PM,Multiple Dwelling,"E 12th Ave & Cleveland Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9959953,-82.9792994,22
+Motor Vehicle Theft,230704513,Motor Vehicle Theft - Generalist,9/8/2023,10:00:00 PM,Street,"9xx Urna Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0441439,-82.9609096,22
+Weapons Violation,230703362,Weapons Offense,9/8/2023,10:00:00 PM,Street,"25xx Atwood Ter, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0322962,-82.9840413,22
+Vandalism,23000737,Criminal Damaging/endangering,9/8/2023,9:56:00 PM,,"15xx W 3rd Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.984902,-83.0397148,21
+All Other - Criminal,230702793,Menacing - Ziu,9/8/2023,6:41:00 PM,Variety/convenience Store,"14xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,18
+Theft,23000736,Theft - All Other Larceny,9/8/2023,6:22:00 PM,,"15xx W 3rd Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.984902,-83.0397148,18
+Motor Vehicle Theft,230703634,Motor Vehicle Theft - Generalist,9/8/2023,6:00:00 PM,Parking Lot,"24xx East Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0169357,-83.0104878,18
+Burglary - Residential,230710815,Burglary - Residential,9/8/2023,5:40:00 PM,Multiple Dwelling,"24xx N 4th St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0129247,-82.9978039,17
+All Other - Criminal,230715696,Menacing - Ziu,9/8/2023,4:00:00 PM,Street,"1xx E 5th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9864137,-82.988532,16
+Shoplifting,202301374,505.05 Petty Theft - Shoplifting,9/8/2023,3:54:00 PM,Other Retail Store,"30xx Kingsdale Ctr, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0201096,-83.0601483,15
+Motor Vehicle Theft,230703488,Motor Vehicle Theft - Generalist,9/8/2023,3:50:00 PM,Street,"Xx E Nationwide Blvd, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9690602,-82.9996017,15
+Traffic Incident,01-23-005792,Vehicle Crash,9/8/2023,3:46:00 PM,,"Columbus, Oh",Street,Franklin County Sheriff's Office,39.9611755,-82.9987942,15
+Motor Vehicle Theft,230702210,Motor Vehicle Theft - Generalist,9/8/2023,3:33:00 PM,Single Family Home,"5xx Bassett Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9814789,-82.9634167,15
+Vandalism,233010463,Damage To Property,9/8/2023,1:45:00 PM,Street,"High Ave & 15th St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9611755,-82.9987942,13
+Theft,235006903,Theft - Misdemeanor - Ziu,9/8/2023,12:17:00 PM,Single Family Home,"12xx E 24th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0062015,-82.9697717,24
+Theft,230702888,Theft - Misdemeanor - Ziu,9/8/2023,12:00:00 PM,Multiple Dwelling,"19xx Denune Ave, Apt B Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0216616,-82.9558329,24
+Theft,202301378,Theft_deception - All Other Thefts,9/8/2023,10:00:00 AM,Single Family Home,"16xx Barrington Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,39.9998777,-83.0533059,10
+Motor Vehicle Theft,230701723,Motor Vehicle Theft - Generalist,9/8/2023,9:00:00 AM,Street,"26xx Audubon Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0210757,-82.9906592,9
+All Other - Non-Criminal,202301388,Non-criminal Incident,9/8/2023,8:47:00 AM,,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,8
+Drugs / Narcotics Violation,23000731,Possession Of Drugs,9/8/2023,12:43:00 AM,,"10xx Dublin Rd Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9730032,-83.0457228,12
+Traffic Incident,01-23-005778,Traffic Offense,9/8/2023,12:17:00 AM,Street,"Westerville Rd, Columbus, Oh 43226",Intersection,Franklin County Sheriff's Office,40.0585622,-82.9376191,12
+Motor Vehicle Theft,230701019,Motor Vehicle Theft - Generalist,9/7/2023,9:30:00 PM,Parking Lot,"4xx Thurber Dr W, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9773238,-83.0164055,21
+Motor Vehicle Theft,230700788,Motor Vehicle Theft - Generalist,9/7/2023,9:00:00 PM,Street,"10xx Chittenden Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.995233,-82.983315,21
+Motor Vehicle Theft,230704686,Motor Vehicle Theft - Generalist,9/7/2023,8:13:00 PM,Street,"Sr 315 S And I, 6xx W Columbus, Oh, 43215",Intersection,Columbus Division Of Police (Oh),39.9725897,-83.0217754,20
+Weapons Violation,230700229,Weapons Offense,9/7/2023,8:08:00 PM,Street,"22xx Howey Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0164497,-82.9842704,20
+Assault - Simple,230700012,Domestic Violence,9/7/2023,6:30:00 PM,Multiple Dwelling,"3xx E 13th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9972924,-82.9954839,18
+All Other - Criminal,233010446,Menacing - Ziu,9/7/2023,6:20:00 PM,Parking Lot,"14xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,18
+Motor Vehicle Theft,230701163,Motor Vehicle Theft - Generalist,9/7/2023,6:00:00 PM,Parking Lot,"21xx Summit St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9951251,-83.0014788,18
+Theft,202301392,Theft_deception - All Other Thefts,9/7/2023,6:00:00 PM,Single Family Home,"16xx Tremont Rd, Upper Arlington, Oh 43212",Address,Upper Arlington Police Department,39.9966278,-83.0625019,18
+Motor Vehicle Theft,233010444,Motor Vehicle Theft - Generalist,9/7/2023,5:50:00 PM,Street,"7xx Thurber Dr E, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9765105,-83.0129811,17
+Theft,23000730,Theft - All Other Larceny,9/7/2023,12:08:00 PM,,"11xx Parkway Dr, Columbus, Oh",Address,Grandview Heights Police Department,39.9814485,-83.0350207,24
+Theft,230701110,Theft - Mail,9/7/2023,12:00:00 PM,Other Business Office,"29xx Silver Dr, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0264258,-82.9948904,24
+All Other - Criminal,230698989,Menacing - Ziu,9/7/2023,11:49:00 AM,Single Family Home,"15xx Republic Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.015664,-82.9700598,11
+Shoplifting,23000729,Theft - Shoplifting,9/7/2023,11:38:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,11
+All Other - Non-Criminal,202301367,Non-criminal Incident,9/7/2023,11:00:00 AM,,"13xx Fishinger Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0296198,-83.0791226,11
+Disorderly Conduct,230698902,Disorderly Conduct,9/7/2023,11:00:00 AM,Street,"E 11th Ave & N Grant Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9942683,-82.9957476,11
+All Other - Criminal,202301365,Warrant,9/7/2023,8:01:00 AM,Street,"Kenny Dr & Shady Hill Rd, Columbus, Oh 43221",Address,Upper Arlington Police Department,40.0206577,-83.0433198,8
+All Other - Criminal,230698557,Menacing - Ziu,9/7/2023,7:32:00 AM,Single Family Home,"9xx E 15th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9989962,-82.9828019,7
+Assault - Simple,230698505,Domestic Violence,9/7/2023,7:30:00 AM,Single Family Home,"3xx Tibet Rd, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0237644,-83.0054265,7
+Assault - Aggravated,230714977,Felony Assault,9/7/2023,3:00:00 AM,Residential Facility,"37xx Olentangy River Rd, Columbus, Oh 43214",Address,Columbus Division Of Police (Oh),40.0525631,-83.0337448,3
+Weapons Violation,230698095,Weapons Offense,9/7/2023,1:57:00 AM,School,"13xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,1
+Traffic Incident,230697974,Traffic Arrest,9/7/2023,12:26:00 AM,Street,"Xx E 15th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9994385,-82.9955846,12
+Robbery - Individual,230697896,Robbery - Individual,9/6/2023,11:20:00 PM,Parking Lot,"8xx Mt Vernon Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9723555,-82.9721455,23
+Assault - Simple,230697885,Domestic Violence,9/6/2023,11:00:00 PM,57 - Camp / Campground,"Iro, 27xx N High St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0188208,-83.0124675,23
+All Other - Criminal,202301363,Issuance Of Warrant Upon Failure To Appear,9/6/2023,10:43:00 PM,Government Office,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,22
+Assault - Simple,230699854,Domestic Violence,9/6/2023,10:30:00 PM,Single Family Home,"29xx Hiawatha St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0232662,-82.9861232,22
+Traffic Incident,230697715,Traffic Arrest,9/6/2023,9:37:00 PM,Street,"I6xx W B And Neil Ave, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.9784808,-83.0113502,21
+Motor Vehicle Theft,230697597,Motor Vehicle Theft - Generalist,9/6/2023,8:47:00 PM,Multiple Dwelling,"8xx Ingleside Ave, Columbus, Oh 43204",Address,Columbus Division Of Police (Oh),39.9791418,-83.0180446,20
+All Other - Criminal,230697573,Menacing - Ziu,9/6/2023,8:37:00 PM,Yard,"11xx Walters St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9877916,-82.9830266,20
+All Other - Criminal,230697226,Menacing - Ziu,9/6/2023,6:19:00 PM,Library,"14xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,18
+Motor Vehicle Theft,230698256,Motor Vehicle Theft - Generalist,9/6/2023,6:00:00 PM,Street,"4xx E 12th Ave, Apt A Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),39.9961721,-82.9834846,18
+All Other - Criminal,230697151,Menacing - Ziu,9/6/2023,5:52:00 PM,Single Family Home,"13xx E Maynard Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0101268,-82.9787601,17
+Motor Vehicle Theft,230696933,Motor Vehicle Theft - Generalist,9/6/2023,4:30:00 PM,Parking Lot,"7xx Camden Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9903306,-82.9800163,16
+Theft,230698880,Theft - Mail,9/6/2023,3:31:00 PM,Financial Institution,"17xx Genessee Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0186954,-82.9650389,15
+All Other - Criminal,202301359,Issuance Of Warrant Upon Failure To Appear,9/6/2023,3:20:00 PM,Street,"14xx W Lane Ave, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0071931,-83.0535706,15
+Motor Vehicle Theft,230696828,Motor Vehicle Theft - Generalist,9/6/2023,2:41:00 PM,Parking Lot,"7xx E Hudson St, Columbus, Oh 43221",Address,Columbus Division Of Police (Oh),40.0135458,-82.9647839,14
+Assault - Simple,230696971,Domestic Violence,9/6/2023,2:35:00 PM,Multiple Dwelling,"11xx Fabron Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9753823,-82.9730647,14
+All Other - Non-Criminal,202301357,Non-criminal Incident,9/6/2023,1:49:00 PM,,"16xx Andover Rd, Upper Arlington, Oh 43212",Address,Upper Arlington Police Department,39.9971675,-83.0556802,13
+Motor Vehicle Theft,230698135,Motor Vehicle Theft - Generalist,9/6/2023,1:00:00 PM,Street,"2xx W Hubbard Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9784204,-83.0096282,13
+Theft,202301397,Theft - All Other Thefts,9/6/2023,12:00:00 PM,Financial Institution,"16xx Berkshire Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0053361,-83.0561396,24
+Theft,230696018,Theft - Misdemeanor - Ziu,9/6/2023,9:58:00 AM,Parking Lot,"Xx W Greenwood Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.986304,-83.0073515,9
+Assault - Aggravated,230602677,Felony Assault,9/6/2023,9:00:00 AM,Street,"17xx Geraldine Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0023984,-82.9533658,9
+Vandalism,233010579,Damage To Property,9/6/2023,3:15:00 AM,Street,"6xx E 3rd Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9834638,-82.9893701,3
+Burglary from Motor Vehicle,230695479,Theft - From Motor Vehicle - Petit - Ziu,9/6/2023,3:10:00 AM,Street,"6xx E Starr Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),39.9824835,-82.9840751,3
+Shoplifting,23000727,Theft - Shoplifting,9/6/2023,2:31:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,2
+All Other - Criminal,230695402,Menacing - Ziu,9/6/2023,1:47:00 AM,Shelter-mission / Homeless,"12xx Corrugated Way, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9890172,-82.9904579,1
+Assault - Aggravated,230695382,Felony Assault,9/6/2023,1:05:00 AM,Gas Station,"12xx E Hudson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,1
+Weapons Violation,230695342,Weapons Offense,9/6/2023,1:00:00 AM,Parking Lot,"12xx E Hudson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,1
+Motor Vehicle Theft,230696625,Motor Vehicle Theft - Generalist,9/5/2023,11:00:00 PM,Street,"20xx Summit St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9951251,-83.0014788,23
+Motor Vehicle Theft,230697046,Motor Vehicle Theft - Generalist,9/5/2023,10:30:00 PM,Parking Lot,"Xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,22
+Motor Vehicle Theft,230696394,Motor Vehicle Theft - Generalist,9/5/2023,8:00:00 PM,Street,"Xx E Weber Rd, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0245397,-83.0043657,20
+Motor Vehicle Theft,230694826,Motor Vehicle Theft - Generalist,9/5/2023,8:00:00 PM,Street,"X Buttles Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9774987,-83.011199,20
+Theft,202301399,Theft_without Consent - All Other Thefts,9/5/2023,7:00:00 PM,Single Family Home,"31xx Northwest Blvd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0079921,-83.0581162,19
+Robbery - Commercial,230694525,Robbery - Business,9/5/2023,5:59:00 PM,Other Retail Store,"31xx N High St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0188208,-83.0124675,17
+Motor Vehicle Theft,230695317,Motor Vehicle Theft - Generalist,9/5/2023,4:45:00 PM,Parking Lot,"15xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,16
+All Other - Non-Criminal,01-23-005740,Unspecified,9/5/2023,4:38:00 PM,,"17xx Olentangy River Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,40.0201128,-83.02456,16
+All Other - Criminal,230694562,Menacing - Ziu,9/5/2023,2:00:00 PM,Single Family Home,"11xx Piedmont Rd, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0339072,-82.9780488,14
+All Other - Criminal,230693788,Menacing - Ziu,9/5/2023,1:15:00 PM,Multiple Dwelling,"13xx E 18th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0017017,-82.9839378,13
+All Other - Criminal,01-23-005804,Domestic Violence,9/5/2023,12:14:00 PM,,"20xx Republic Av, Columbus, Oh 43211",Address,Franklin County Sheriff's Office,40.015664,-82.9700598,24
+All Other - Non-Criminal,202301391,Non-criminal Incident,9/5/2023,11:00:00 AM,,"14xx W Lane Ave, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0071931,-83.0535706,11
+All Other - Criminal,230693489,Menacing - Ziu,9/5/2023,11:00:00 AM,Street,"21xx Iuka Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0047061,-83.0022502,11
+Burglary from Motor Vehicle,233010374,Theft - From Motor Vehicle - Petit - Ziu,9/5/2023,10:30:00 AM,Parking Lot,"6xx Harley Dr, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0214411,-83.0296833,10
+Assault - Simple,230693342,Domestic Violence,9/5/2023,10:00:00 AM,Single Family Home,"24xx Lexington Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.008079,-82.9806532,10
+All Other - Criminal,230693323,Menacing - Ziu,9/5/2023,9:05:00 AM,Street,"20xx Hamilton Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0141835,-82.9789869,9
+All Other - Criminal,230693139,Truancy,9/5/2023,7:40:00 AM,School,"2xx N 22nd St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9689723,-82.9712048,7
+Theft,230692874,Theft - Misdemeanor - Ziu,9/5/2023,2:00:00 AM,Single Family Home,"Xx King Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9905274,-83.0164178,2
+Shoplifting,23000725,Theft - Shoplifting,9/5/2023,12:53:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,12
+Shoplifting,23000724,Theft - Shoplifting,9/5/2023,12:21:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,12
+All Other - Non-Criminal,230692557,Missing Person,9/4/2023,9:00:00 PM,Single Family Home,"27xx Atwood Ter, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0208157,-82.9851683,21
+All Other - Non-Criminal,230692588,Missing Person,9/4/2023,9:00:00 PM,Park/playground,"13xx Briarwood Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0165695,-82.9699998,21
+All Other - Non-Criminal,230692494,Missing Person,9/4/2023,9:00:00 PM,Park/playground,"13xx Briarwood Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0165695,-82.9699998,21
+Motor Vehicle Theft,230693588,Motor Vehicle Theft - Generalist,9/4/2023,8:45:00 PM,Parking Lot,"Xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,20
+Motor Vehicle Theft,230693698,Motor Vehicle Theft - Generalist,9/4/2023,8:00:00 PM,Street,"2xx E 17th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0009158,-82.9892364,20
+All Other - Criminal,230692553,Menacing - Ziu,9/4/2023,7:00:00 PM,Single Family Home,"10xx E 17th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0003473,-82.9754196,19
+All Other - Criminal,230691457,Menacing - Ziu,9/4/2023,3:25:00 PM,Single Family Home,"11xx Vesta Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9952939,-82.9773699,15
+Assault - Aggravated,230691164,Felony Assault,9/4/2023,1:24:00 PM,Park/playground,"12xx Briarwood Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0165695,-82.9699998,13
+Theft,230699405,Theft - Misdemeanor - Ziu,9/4/2023,11:20:00 AM,Single Family Home,"26xx Medary Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0162521,-83.0055466,11
+Theft,230690729,Theft - Involving Elderly / Disabled - Generalist,9/4/2023,10:18:00 AM,Multiple Dwelling,"10xx E 20th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0035694,-82.9830206,10
+All Other - Non-Criminal,230690696,Missing Person,9/4/2023,10:01:00 AM,Single Family Home,"2xx N 17th St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9674179,-82.9771827,10
+All Other - Criminal,230690304,Menacing - Ziu,9/4/2023,3:19:00 AM,Single Family Home,"21xx Summit St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9951251,-83.0014788,3
+Traffic Incident,230690113,Traffic Arrest,9/4/2023,12:55:00 AM,Street,"N Wall St & W Long St, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.964831,-83.0020795,12
+Motor Vehicle Theft,230691191,Motor Vehicle Theft - Generalist,9/4/2023,12:00:00 AM,Parking Lot,"13xx Highland St, Apt C Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9859486,-83.010943,12
+Theft,230696382,Theft - Misdemeanor - Ziu,9/3/2023,11:00:00 PM,Multiple Dwelling,"11xx Ontario St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0161253,-82.9766586,23
+Assault - Simple,230689895,Domestic Violence,9/3/2023,10:45:00 PM,Multiple Dwelling,"11xx E 26th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0080923,-82.9720703,22
+Motor Vehicle Theft,230690093,Motor Vehicle Theft - Generalist,9/3/2023,10:30:00 PM,Parking Garage,"2xx E Long St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.96786,-82.9759179,22
+Motor Vehicle Theft,230689764,Motor Vehicle Theft - Generalist,9/3/2023,10:09:00 PM,Restaurant,"12xx Essex Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9934439,-82.9875033,22
+Theft,230689978,Theft - Misdemeanor - Ziu,9/3/2023,10:00:00 PM,Single Family Home,"1xx N 17th St, Columbus, Oh 43205",Address,Columbus Division Of Police (Oh),39.9674179,-82.9771827,22
+All Other - Non-Criminal,230692741,Missing Person,9/3/2023,8:00:00 PM,Multiple Dwelling,"2xx E Long St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.96786,-82.9759179,20
+Assault - Simple,230689756,Domestic Violence,9/3/2023,8:00:00 PM,Parking Lot,"E 5th Ave And, Xx Columbus, Oh, 43201",Address,Columbus Division Of Police (Oh),39.9929821,-83.001221,20
+Motor Vehicle Theft,230690552,Motor Vehicle Theft - Generalist,9/3/2023,7:00:00 PM,Garage/shed,"9xx E 13th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9972463,-82.9842607,19
+All Other - Criminal,230689122,Menacing - Ziu,9/3/2023,6:00:00 PM,Gas Station,"11xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,18
+Vandalism,230688993,Damage To Property,9/3/2023,5:20:00 PM,Multiple Dwelling,"Xx Mcmillan Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9909108,-83.0069855,17
+Motor Vehicle Theft,230691829,Motor Vehicle Theft - Generalist,9/3/2023,5:00:00 PM,Street,"3xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,17
+Theft,230688747,Theft - Misdemeanor - Ziu,9/3/2023,3:15:00 PM,Financial Institution,"27xx Cleveland Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0414902,-82.9607468,15
+Motor Vehicle Theft,230688639,Motor Vehicle Theft - Generalist,9/3/2023,3:00:00 PM,Street,"16xx Mulby Pl, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0145936,-82.9661531,15
+Theft,01-23-005773,Larceny/theft,9/3/2023,2:00:00 PM,,"17xx Olentangy River Rd, Clinton Twp, Oh 43224",Address,Franklin County Sheriff's Office,40.0201128,-83.02456,14
+Assault - Simple,230688459,Domestic Violence,9/3/2023,1:10:00 PM,Single Family Home,"11xx Loretta Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0147246,-82.9701322,13
+Burglary - Residential,230693977,Burglary - Residential,9/3/2023,1:00:00 PM,Multiple Dwelling,"20xx Iuka Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0047061,-83.0022502,13
+Robbery - Individual,230687500,Robbery - Individual,9/3/2023,3:42:00 AM,Street,"Westerville Rd Cleveland Ave Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0210854,-82.9648443,3
+Robbery - Individual,230687837,Robbery - Individual,9/3/2023,3:30:00 AM,Street,"Xx And, Cleveland Columbus, Oh 43202",Intersection,Columbus Division Of Police (Oh),40.0215545,-83.0092803,3
+Traffic Incident,230687471,Traffic Arrest,9/3/2023,2:20:00 AM,Street,"N High Ave & W 4th St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9852551,-83.0051539,2
+Assault - Simple,230687374,Domestic Violence,9/3/2023,1:34:00 AM,Single Family Home,"13xx E 17th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0003473,-82.9754196,1
+Robbery - Individual,230687363,Robbery - Individual,9/3/2023,1:25:00 AM,Street,"N High Pl & Clark St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9891481,-83.0058988,1
+Drugs / Narcotics Violation,230687318,Drug Offense,9/3/2023,1:05:00 AM,Street,"Denune Avenue/joyce Ave Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0218497,-82.9599309,1
+Driving Under the Influence (DUI),23000721,Driving While Under The Influence Of Alcohol/ Drugs,9/3/2023,1:02:00 AM,,"8xx Burr Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9764059,-83.0314902,1
+Vandalism,233010381,Damage To Property,9/3/2023,12:24:00 AM,Street,"14xx N 4th St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,12
+Assault - Simple,230687227,Domestic Violence,9/3/2023,12:20:00 AM,Multiple Dwelling,"14xx N 4th St, Apt F Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9944071,-82.9990764,12
+Sexual Offense,230687481,Public Indecency,9/3/2023,12:00:00 AM,Street,"1xx E Oakland Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0088267,-83.0032451,12
+Burglary - Residential,230687147,Burglary - Residential,9/2/2023,11:51:00 PM,Single Family Home,"14xx E Blake Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0103169,-82.9674854,23
+All Other - Criminal,230687017,Menacing - Ziu,9/2/2023,10:55:00 PM,Single Family Home,"14xx Brooks Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.996448,-82.9750753,22
+Motor Vehicle Theft,230686820,Motor Vehicle Theft - Generalist,9/2/2023,9:20:00 PM,Restaurant,"8xx W 3rd Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9838674,-83.0151611,21
+Vandalism,230686634,Damage To Property,9/2/2023,8:06:00 PM,,"11xx E Weber Rd, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,20
+Traffic Incident,230686514,Traffic Arrest,9/2/2023,7:20:00 PM,Street,"11xx Dublin Rd, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9737965,-83.0484493,19
+All Other - Criminal,230686467,Menacing - Ziu,9/2/2023,7:08:00 PM,Single Family Home,"23xx Grasmere Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0185699,-82.9829591,19
+All Other - Criminal,233010334,Menacing - Ziu,9/2/2023,5:30:00 PM,Street,"Summit & E 15th, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9997109,-83.0011673,17
+Weapons Violation,230686059,Weapons Offense,9/2/2023,4:35:00 PM,70 - Other Vehicle,"13xx Manchester Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0221687,-82.9739738,16
+Robbery - Individual,230686454,Robbery - Individual,9/2/2023,4:30:00 PM,Parking Lot,"Xx S Young St, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9607478,-82.994994,16
+Theft,230685912,Theft - Misdemeanor - Ziu,9/2/2023,3:36:00 PM,Street,"1xx W North, Broadway Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.031622,-83.0277693,15
+Burglary - Residential,230687119,Burglary - Residential,9/2/2023,1:45:00 PM,Multiple Dwelling,"31xx Dorriss Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.0247723,-83.0196795,13
+Theft,230685480,Theft Of Utilities,9/2/2023,12:45:00 PM,Single Family Home,"11xx E 26th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0080923,-82.9720703,24
+All Other - Non-Criminal,230685538,Missing Person,9/2/2023,12:20:00 PM,Single Family Home,"10xx Duxberry Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091135,-82.9760462,24
+Theft,230685274,Theft - Misdemeanor - Ziu,9/2/2023,10:52:00 AM,Grocery/supermarket,"8xx W 3rd Ave, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),39.9846869,-83.0339917,10
+All Other - Criminal,230685166,Menacing - Ziu,9/2/2023,10:15:00 AM,Department/discount Store,"23xx Cleveland Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0091011,-82.9701954,10
+Theft,230685195,Theft - Misdemeanor - Ziu,9/2/2023,10:14:00 AM,Variety/convenience Store,"6xx E Hidson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,10
+Motor Vehicle Theft,230702317,Motor Vehicle Theft - Generalist,9/2/2023,8:00:00 AM,Auto Shop,"29xx Hiawatha St, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0325276,-82.9853042,8
+Assault - Simple,230684882,Domestic Violence,9/2/2023,7:11:00 AM,Single Family Home,"12xx E 23rd Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0052769,-82.9679823,7
+Vandalism,233010341,Damage To Property,9/2/2023,4:27:00 AM,Street,"Xx E Russell St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.975727,-83.0018644,4
+Traffic Incident,230684748,Traffic Arrest,9/2/2023,4:25:00 AM,Street,"22xx Hiawatha Park Dr, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0118791,-82.9870896,4
+Traffic Incident,230684750,Traffic Arrest,9/2/2023,4:04:00 AM,Street,"Xx E Russell St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.975727,-83.0018644,4
+Robbery - Individual,230684730,Robbery - Individual,9/2/2023,3:46:00 AM,Street,"Iro, 23xx Hiawatha Park Dr, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0118791,-82.9870896,3
+Traffic Incident,230684582,Traffic Arrest,9/2/2023,2:10:00 AM,Street,"E 11th Ave & Jefferson Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),39.9937931,-82.9834197,2
+Motor Vehicle Theft,230684527,Motor Vehicle Theft - Generalist,9/2/2023,1:26:00 AM,Gas Station,"17xx E Hudson St, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0140472,-82.9757029,1
+Assault - Aggravated,230684483,Felony Assault,9/2/2023,1:22:00 AM,Street,"N High Blvd & E Nationwide St, Columbus, Oh 43210",Intersection,Columbus Division Of Police (Oh),39.9689445,-83.0019694,1
+Alcohol Violation,230684399,Liquor Law Offense,9/2/2023,12:30:00 AM,Street,"W Starr St & N High Ave, Columbus, Oh 43205",Intersection,Columbus Division Of Police (Oh),39.9829394,-83.0046897,12
+Motor Vehicle Theft,230685210,Motor Vehicle Theft - Generalist,9/2/2023,12:00:00 AM,Parking Lot,"2xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,12
+Motor Vehicle Theft,230685279,Motor Vehicle Theft - Generalist,9/2/2023,12:00:00 AM,Parking Lot,"2xx Chittenden Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9948248,-82.9953053,12
+All Other - Non-Criminal,230705052,Missing Person,9/2/2023,12:00:00 AM,Single Family Home,"5xx Bolivar St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9753951,-82.9748152,12
+Weapons Violation,230684102,Weapons Offense,9/1/2023,10:38:00 PM,Street,"St Clair Ave & Leonard Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9769162,-82.9804214,22
+Motor Vehicle Theft,230686644,Motor Vehicle Theft - Generalist,9/1/2023,10:00:00 PM,Parking Lot,"3xx Alexandria Colony Ct E, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9765961,-83.0138396,22
+Assault - Simple,230465846,Domestic Violence,9/1/2023,9:30:00 PM,Single Family Home,"10xx Chittenden Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.995233,-82.983315,21
+All Other - Criminal,202301341,Issuance Of Warrant Upon Failure To Appear,9/1/2023,9:27:00 PM,Street,"10xx Dublin Rd, Upper Arlington, Oh 43215",Address,Upper Arlington Police Department,40.0264906,-83.1026756,21
+All Other - Non-Criminal,230684384,Missing Person,9/1/2023,9:00:00 PM,Street,"13xx 24th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0062015,-82.9697717,21
+Driving Under the Influence (DUI),23000716,Driving While Under The Influence Of Alcohol/ Drugs,9/1/2023,7:33:00 PM,,"13xx W 1st Ave Avondale Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.98172,-83.0417945,19
+Motor Vehicle Theft,230747373,Motor Vehicle Theft - Generalist,9/24/2023,9:39:00 PM,Street,"15xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,21
+All Other - Non-Criminal,230747250,Missing Person,9/24/2023,9:13:00 PM,Street,"Jefferson Ave & E 17th Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0006627,-82.9826913,21
+All Other - Criminal,202301455,Issuance Of Warrant Upon Failure To Appear,9/24/2023,7:19:00 PM,Street,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,19
+All Other - Criminal,230746370,Menacing - Ziu,9/24/2023,3:53:00 PM,Parking Lot,"11xx E Weber Rd, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.023496,-82.9819422,15
+Theft,23000776,Theft - From Building,9/24/2023,2:43:00 PM,,"9xx Dorchester Way, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9797832,-83.0276834,14
+All Other - Non-Criminal,202301453,Non-criminal Incident,9/24/2023,2:06:00 PM,,"26xx Mount Holyoke Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0160339,-83.0531144,14
+All Other - Criminal,230746166,Menacing - Ziu,9/24/2023,1:59:00 PM,Multiple Dwelling,"8xx Mansfield Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),39.9840274,-82.9643508,13
+Motor Vehicle Theft,230748485,Motor Vehicle Theft - Generalist,9/24/2023,12:00:00 PM,Street,"Chesnut & 3rd, Columbus, Oh 43215",Intersection,Columbus Division Of Police (Oh),39.9679165,-82.9990011,24
+Motor Vehicle Theft,230745794,Motor Vehicle Theft - Generalist,9/24/2023,10:58:00 AM,Street,"Pontiac Ave & Akola St, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0175084,-82.9891684,10
+All Other - Non-Criminal,230746064,Missing Person,9/24/2023,10:45:00 AM,Single Family Home,"9xx Camden Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9903306,-82.9800163,10
+Assault - Simple,230745704,Domestic Violence,9/24/2023,9:30:00 AM,Single Family Home,"4xx E 12th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.996278,-82.9866104,9
+Drugs / Narcotics Violation,23000775,Possession Of Drugs,9/24/2023,1:19:00 AM,,"7xx Grandview Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9795352,-83.0451845,1
+Weapons Violation,230744983,Weapons Offense,9/24/2023,12:45:00 AM,Street,"9xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,12
+Vandalism,202301452,Criminal Damaging Or Endangering_knowingly Any Means,9/24/2023,12:00:00 AM,Single Family Home,"20xx W 5th Ave, Upper Arlington, Oh 43212",Address,Upper Arlington Police Department,39.9887493,-83.0436821,12
+Assault - Simple,230744871,Domestic Violence,9/23/2023,11:49:00 PM,Single Family Home,"11xx Windsor Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.996718,-82.9703172,23
+All Other - Criminal,202301450,Issuance Of Warrant Upon Failure To Appear,9/23/2023,11:35:00 PM,Street,"Kenny Rd & Mccoy Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.040036,-83.0505149,23
+Drugs / Narcotics Violation,230744421,Drug Offense,9/23/2023,8:45:00 PM,Parking Lot,"E 5th Ave & Peters Ave, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),39.9861442,-82.9809137,20
+Assault - Simple,230744199,Domestic Violence,9/23/2023,7:20:00 PM,Single Family Home,"27xx Westerville Rd, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0585622,-82.9376191,19
+Sexual Offense,230744210,Public Indecency,9/23/2023,7:15:00 PM,Multiple Dwelling,"2xx E 16th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.0003242,-82.9956461,19
+Motor Vehicle Theft,230744264,Motor Vehicle Theft - Generalist,9/23/2023,7:00:00 PM,Parking Lot,"12xx Olentangy River Rd, Columbus, Oh 43212",Address,Columbus Division Of Police (Oh),39.9887726,-83.0257486,19
+Assault - Simple,230744091,Domestic Violence,9/23/2023,6:41:00 PM,Single Family Home,"11xx Northridge Rd, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0409891,-82.9800312,18
+All Other - Criminal,230744132,Menacing - Ziu,9/23/2023,6:30:00 PM,Multiple Dwelling,"9xx Atcheson St, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9744757,-82.9702965,18
+Death Investigation,23000772,Dead On Arrival,9/23/2023,6:18:00 PM,,"10xx Urlin Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9769201,-83.0506374,18
+Burglary - Residential,23000774,Burglary,9/23/2023,5:45:00 PM,,"8xx Goodale Blvd, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9754695,-83.0395673,17
+All Other - Non-Criminal,230755235,Missing Person,9/23/2023,5:00:00 PM,Single Family Home,"29xx Hiawatha Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0325276,-82.9853042,17
+Assault - Simple,230743659,Domestic Violence,9/23/2023,3:55:00 PM,Single Family Home,"25xx Homecroft Dr, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0192491,-82.9928486,15
+All Other - Criminal,202301447,Issuance Of Warrant Upon Failure To Appear,9/23/2023,3:41:00 PM,Street,"Kenny & W North Rd, Broadway Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0295977,-83.0374605,15
+Assault - Simple,230743444,Domestic Violence,9/23/2023,2:24:00 PM,Multiple Dwelling,"32xx Reis Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0282912,-82.9914077,14
+Motor Vehicle Theft,230744451,Motor Vehicle Theft - Generalist,9/23/2023,2:00:00 PM,Parking Lot,"Xx Jefferson Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9673214,-82.9850242,14
+Motor Vehicle Theft,230756580,Motor Vehicle Theft - Generalist,9/23/2023,12:00:00 PM,Parking Lot,"15xx Joyce Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0055776,-82.963735,24
+Theft,23000771,Theft - From Motor Vehicle,9/23/2023,11:03:00 AM,,"9xx Quay Ave, Grandview Heights, Oh",Address,Grandview Heights Police Department,39.9766039,-83.0394782,11
+Assault - Simple,230742499,Domestic Violence,9/23/2023,5:36:00 AM,Multiple Dwelling,"9xx Mount Vernon Ave, Columbus, Oh 43203",Address,Columbus Division Of Police (Oh),39.9723555,-82.9721455,5
+Motor Vehicle Theft,230742662,Motor Vehicle Theft - Generalist,9/23/2023,5:01:00 AM,Street,"12xx E 17th Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0003473,-82.9754196,5
+Burglary - Residential,230742696,Burglary - Residential,9/23/2023,3:00:00 AM,Single Family Home,"11xx Vesta Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),39.9952939,-82.9773699,3
+All Other - Non-Criminal,202301445,Non-criminal Incident,9/23/2023,2:00:00 AM,,"14xx Westminster Dr, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0100946,-83.0506378,2
+Weapons Violation,230742194,Weapons Offense,9/23/2023,1:26:00 AM,Parking Lot,"11xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,1
+Traffic Incident,230742140,Traffic Arrest,9/23/2023,1:06:00 AM,Street,"E Weber Rd / Ontario St Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0232497,-82.9760926,1
+Drugs / Narcotics Violation,230742115,Drug Offense,9/23/2023,12:55:00 AM,Gas Station,"Joyce St & E Hudson Ave, Columbus, Oh 43211",Intersection,Columbus Division Of Police (Oh),40.0140472,-82.9757029,12
+Assault - Aggravated,230742141,Felony Assault,9/23/2023,12:35:00 AM,Bar,"Xx E 13th Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9972924,-82.9954839,12
+Weapons Violation,230742049,Weapons Offense,9/23/2023,12:26:00 AM,Single Family Home,"34xx Kimberly Ave, Columbus, Oh 43224",Address,Columbus Division Of Police (Oh),40.0346283,-82.9922775,12
+Drugs / Narcotics Violation,230741863,Drug Offense,9/22/2023,11:58:00 PM,Street,"N 4th Ave & E 19th St, Columbus, Oh 43201",Intersection,Columbus Division Of Police (Oh),40.0032725,-82.9984947,23
+Burglary - Residential,230742737,Burglary - Residential,9/22/2023,11:00:00 PM,Single Family Home,"23xx Summit St, Columbus, Oh 43202",Address,Columbus Division Of Police (Oh),40.018535,-82.9998459,23
+Assault - Simple,230741692,Domestic Violence,9/22/2023,9:49:00 PM,Arena / Stadium / Fairgrounds / Coliseum,"4xx Neil Ave, Columbus, Oh 43215",Address,Columbus Division Of Police (Oh),39.9784808,-83.0113502,21
+Burglary from Motor Vehicle,230741473,Theft - From Motor Vehicle - Petit - Ziu,9/22/2023,7:00:00 PM,Parking Lot,"11xx N High St, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),39.9940977,-83.0068864,19
+Theft,233010886,Theft - Misdemeanor - Ziu,9/22/2023,4:00:00 PM,Parking Garage,"2xx W Norwich Ave, Columbus, Oh 43201",Address,Columbus Division Of Police (Oh),40.007228,-83.0131823,16
+All Other - Criminal,230740621,Menacing - Ziu,9/22/2023,3:30:00 PM,Street,"20xx Berrell Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0216483,-82.9551455,15
+Motor Vehicle Theft,230708005,Motor Vehicle Theft - Generalist,9/22/2023,1:49:00 PM,Parking Lot,"15xx Cordell Ave, Columbus, Oh 43211",Address,Columbus Division Of Police (Oh),40.0110852,-82.9658723,13
+All Other - Criminal,233010823,Menacing - Ziu,9/22/2023,12:00:00 PM,Multiple Dwelling,"21xx Joyce Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),40.0055776,-82.963735,24
+Weapons Violation,233010825,Weapons Offense,9/22/2023,10:56:00 AM,Street,"8xx E Starr Ave, Columbus, Oh 43219",Address,Columbus Division Of Police (Oh),39.9824835,-82.9840751,10
+All Other - Non-Criminal,202301456,Non-criminal Incident,9/22/2023,8:41:00 AM,,"36xx Tremont Rd, Upper Arlington, Oh 43221",Address,Upper Arlington Police Department,40.0158356,-83.0656524,8
